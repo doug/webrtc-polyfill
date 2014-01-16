@@ -1,0 +1,21 @@
+{
+  "name": "webrtc-polyfill",
+  "version": "0.0.0",
+  "authors": [
+    "Doug Fritz <doug@dougfritz.com>"
+  ],
+  "description": "WebRTC polyfill",
+  "main": "webrtc.js",
+  "keywords": [
+    "webrtc"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/doug/webrtc-polyfill",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
